@@ -1,0 +1,5 @@
+media/
+__pycache__/
+lap
+intro.py
+laplace_domain.py
